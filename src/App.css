@@ -1,0 +1,20 @@
+h1 {
+  font-size: 5em;
+  font-weight: 600;
+  letter-spacing: -4px;
+  color: #272730;
+}
+
+.color-container {
+  position: absolute;
+  top: 74px;
+  left: 70px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.picker {
+  width: 128px !important;
+  height: 128px !important;
+}
